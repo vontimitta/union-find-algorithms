@@ -1,10 +1,11 @@
 package com.varun.algorithms.union.find.quickfind;
 
-import junit.framework.TestCase;
+import org.junit.Test;
 
-public class QuickFindAlgorithmTest extends TestCase {
+public class QuickFindAlgorithmTest {
 
-	public void testApp() {
-		assertTrue(true);
+	@Test
+	public void unionTwoNodes() {
+
 	}
 }
