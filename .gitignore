@@ -3,16 +3,10 @@
 
 .project
 
-.settings/org.eclipse.core.resources.prefs
+.settings/
 
 *.prefs
 
 *.MF
 
-target/classes/META-INF/maven/com.varun.algorithms.union.find/union-find-algorithms/pom.properties
-
-target/classes/META-INF/maven/com.varun.algorithms.union.find/union-find-algorithms/pom.xml
-
-target/classes/com/varun/algorithms/union/find/App.class
-
-target/test-classes/com/varun/algorithms/union/find/AppTest.class
+target/
