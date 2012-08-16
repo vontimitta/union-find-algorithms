@@ -1,0 +1,12 @@
+There are different methods to solve this algorithm. The hardest of among all is trying to find
+unique element without using collections. Different methods:
+
+1. Without using collections (At least N squared)
+2. Using collections, Set 
+3. Sorting the list and then finding elements adjacent to each other if they are equal. (n log n)
+
+Things learnt from this algorithm
+
+1. Cannot convert List<Integer> to arrayList using collection method. It has to be manually
+converted to a native list
+2. Hard to find unique elements in an array without using collections
